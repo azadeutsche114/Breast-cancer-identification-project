@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Breast Cancer Detection Using Machine Learning Classifier
-
-# by www.IndianAIProduction.com <br>
-# Project Source: www.IndianAIProduction.com/breast-cancer-detection-using-machine-learning-classifier <br>
-# ML Projects: www.IndianAIProduction.com/machine-learning-projects <br>
-# Videos: www.YouTube.com/IndianAIProduction
 
 # # Import essential libraries 
 
