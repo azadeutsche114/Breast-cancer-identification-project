@@ -632,9 +632,3 @@ print('Confusion matrix of XGBoost model: \n',confusion_matrix(y_test, y_pred),'
 # show the accuracy
 print('Accuracy of XGBoost model = ',accuracy_score(y_test, y_pred))
 
-
-# End ==================================================    <br>
-# This Project Created By www.IndianAIProduction.com <br>
-# Project Source: www.IndianAIProduction.com/breast-cancer-detection-using-machine-learning-classifier <br>
-# ML Projects: www.IndianAIProduction.com/machine-learning-projects <br>
-# Videos: www.YouTube.com/IndianAIProduction
